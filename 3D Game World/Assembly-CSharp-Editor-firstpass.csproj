@@ -64,6 +64,28 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Plugins\HoudiniEngineUnity\Editor\HEU_EditorApp.cs" />
+    <Compile Include="Assets\Plugins\HoudiniEngineUnity\Editor\HEU_EditorMenu.cs" />
+    <Compile Include="Assets\Plugins\HoudiniEngineUnity\Editor\HEU_EditorStrings.cs" />
+    <Compile Include="Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_CookLogsWindow.cs" />
+    <Compile Include="Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_CurveUI.cs" />
+    <Compile Include="Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_DragHandleMulti.cs" />
+    <Compile Include="Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_EditorUI.cs" />
+    <Compile Include="Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_GeoSyncUI.cs" />
+    <Compile Include="Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_HandlesUI.cs" />
+    <Compile Include="Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_HoudiniAssetDebugUI.cs" />
+    <Compile Include="Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_HoudiniAssetUI.cs" />
+    <Compile Include="Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_InputNodeUI.cs" />
+    <Compile Include="Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_InstanceInputUI.cs" />
+    <Compile Include="Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_NodeSyncUI.cs" />
+    <Compile Include="Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_OutputLogUIComponent.cs" />
+    <Compile Include="Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_PDGAssetLinkUI.cs" />
+    <Compile Include="Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_ParameterUI.cs" />
+    <Compile Include="Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_SelectionWindow.cs" />
+    <Compile Include="Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_SessionSyncWindow.cs" />
+    <Compile Include="Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_SettingsWindow.cs" />
+    <Compile Include="Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_ShelfToolsWindow.cs" />
+    <Compile Include="Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_ToolsUI.cs" />
     <Compile Include="Assets\Standard Assets\Editor\CrossPlatformInput\CrossPlatformInputInitialize.cs" />
     <Compile Include="Assets\Standard Assets\Editor\Water\Water4\GerstnerDisplaceEditor.cs" />
     <Compile Include="Assets\Standard Assets\Editor\Water\Water4\PlanarReflectionEditor.cs" />
