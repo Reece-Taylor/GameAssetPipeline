@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - Water
+  - trigger
+  - trigger2
   layers:
   - Default
   - TransparentFX
